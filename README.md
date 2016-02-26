@@ -1,7 +1,7 @@
 Many papers that are relevant to understanding the Mercury implementation
 are written about the Mercury system itself, usually coauthored by a member
 of the Mercury team, and available on the papers page of the Mercury website,
-mercurylang.org. However, some not. These are stored on machines that the
+mercurylang.org. However, some are not. These are stored on machines that the
 Mercury project has no control over, and which may stop hosting those papers
 at any time. This has already happened at least once. This repository has
 copies of those papers to assure access to them to anyone working on Mercury.
